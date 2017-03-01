@@ -1,4 +1,6 @@
 # react-apollo-todo-example
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/graphcool-examples/react-apollo-todo-example.svg)](https://greenkeeper.io/)
 ![](http://i.imgur.com/CH44AZF.png)
 
 ## Getting Started
